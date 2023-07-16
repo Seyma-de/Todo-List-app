@@ -20,7 +20,7 @@ Project aims to create a simple To-Do App.
 
 ## Expected Outcome
 
----![Proje Gif'i](/gif/giphy.gif)
+---![Proje Gif'i](/gif/giphy(1).gif)
 
 
 ###Technologies and Tools
